@@ -16,7 +16,7 @@ module.exports = {
     scrollwheel: require('./scrollwheel'),
     slider: require('./slider'),
     tentingpuck: require('./tentingpuck'),
-    tentingpuck_n_s: require('./tentingpuck-n-s'),
+    tentingpucknorthsouth: require('./tentingpucknorthsouth'),
     text: require('./text'),
     trrs: require('./trrs'),
     via: require('./via'),
